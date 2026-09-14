@@ -255,11 +255,6 @@ Form Data:
 
 ### 2. Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/dhruvsinghal09/Adaptive-Rag.git
-cd AdaptiveRag
-
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
